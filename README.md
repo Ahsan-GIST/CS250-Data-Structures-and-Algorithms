@@ -1,5 +1,5 @@
 # CS250-Data-Structures-and-Algorithms
-Teaching materials and example codes for the undergraduate course CS250: Data Structures and Algorithms at NUST. Includes lecture examples, problem-solving exercises, and assignments in C++.
+Example codes of data structures in C++ programming language for the undergraduate course CS250: Data Structures and Algorithms at NUST. 
 
 ---
 
@@ -8,23 +8,7 @@ This course introduces the fundamental data structures and algorithms that under
 
 ---
 
-## 📂 Repository Structure
-- **WeekXX_*** → Lecture examples and code demonstrations.  
-- **Assignments/** → Programming assignments and problem sets.  
-- **Practice_Problems/** → Additional exercises for self-study.
 
----
-
-## 💡 Topics Covered
-- Arrays, Pointers, and Recursion  
-- Stacks and Queues  
-- Linked Lists  
-- Trees and Binary Search Trees  
-- Sorting and Searching Algorithms  
-- Graphs and Traversals  
-- Algorithm Complexity and Optimization  
-
----
 
 ## 🧑‍💻 Example Code
 All examples are implemented in **C++** and are meant for educational purposes.  
